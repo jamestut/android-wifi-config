@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Wi-Fi Configuration</string>
+    <string name="wifi_switch">Wi-Fi %1$s</string>
+    <string name="wifi_on">On</string>
+    <string name="wifi_off">Off</string>
+    <string name="menu_main_show_profiles">Show Profiles</string>
+    <string name="msg_wifi_scan_failed">Could not initialize Wi-Fi scan.</string>
+    <string name="supl_state_completed">Connected</string>
+    <string name="supl_state_authenticating">Authenticating&#8230;</string>
+    <string name="supl_state_associated">Connected</string>
+    <string name="supl_state_associating">Connecting&#8230;</string>
+    <string name="supl_state_other">Disconnected</string>
+    <string name="wifi_unsupported">Network unsupported</string>
+    <string name="wifi_ssid_hidden">(Hidden Network)</string>
+    <string name="wifi_has_profile">Saved</string>
+    <string name="wifi_secure">Secured</string>
+    <string name="wifi_open">Open network</string>
+    <string name="dlg_ssid">SSID</string>
+    <string name="dlg_security">Security</string>
+    <string name="dlg_passphrase">Passphrase</string>
+    <string name="dlg_passphrase_saved">(Saved)</string>
+    <string name="dlg_action_forget">Forget</string>
+    <string name="dlg_action_connect">Connect</string>
+    <string name="dlg_action_dismiss">Dismiss</string>
+    <string name="dlg_wifi_connect_title">Connect to Network</string>
+    <string name="dlg_wifi_connected_title">Connection Info</string>
+    <string name="dlg_wifi_saved_title">Saved Network</string>
+    <string name="dlg_wifi_unsupported_title">Network Unsupported</string>
+    <string name="dlg_warn_unsupported">The security settings of this network is unsupported. Please choose another network.</string>
+    <string name="dlg_warn_hidden">Cannot connect to hidden network. Please choose another network.</string>
+    <string name="action_result_connect">Connection attempt started</string>
+    <string name="action_result_create_profile_error">Cannot create network profile. Connection attempt cancelled.</string>
+    <string name="action_result_invalid_passphrase">Passphrase is too short. Minimum length is 8 characters.</string>
+    <string name="action_result_profile_delete">Network configuration profile deleted</string>
+    <string name="action_result_profile_cannot_delete">Cannot remove system-configured network profiles</string>
+</resources>

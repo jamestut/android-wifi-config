@@ -12,9 +12,9 @@ This app is only compatible with Android L (API 21) until Android P (28). It is 
 * Wi-Fi connected network indicator.
 
 ## Screenshots
-![Network List](/docs/screenshot/ss1.png?raw=true | width=150)
-![Saved Networks](/docs/screenshot/ss2.png?raw=true | width=150)
-![Passphrase Input](/docs/screenshot/ss3.png?raw=true | width=150)
+![Network List](/docs/screenshot/ss1.png?raw=true)
+![Saved Networks](/docs/screenshot/ss2.png?raw=true)
+![Passphrase Input](/docs/screenshot/ss3.png?raw=true)
 
 ## Known Issues and Limitations
 * Wi-Fi network scans is severely delayed on Android P. This is because Android P throttles Wi-Fi scanning rate for non system apps.

@@ -11,6 +11,11 @@ This app is only compatible with Android L (API 21) until Android P (28). It is 
 * Automatic and continous Wi-Fi scan.
 * Wi-Fi connected network indicator.
 
+## Screenshots
+![Network List](/docs/screenshot/ss1.jpg?raw=true "Network List")
+![Saved Networks](/docs/screenshot/ss2.jpg?raw=true "Saved Networks")
+![Passphrase Input](/docs/screenshot/ss3.jpg?raw=true "Passphrase Input")
+
 ## Known Issues and Limitations
 * Wi-Fi network scans is severely delayed on Android P. This is because Android P throttles Wi-Fi scanning rate for non system apps.
 * This app cannot delete older profiles created by itself after the the app has been stopped for some time.
